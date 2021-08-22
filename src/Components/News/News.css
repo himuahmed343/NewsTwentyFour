@@ -1,0 +1,17 @@
+.card{
+    margin: 10px 0;
+    padding: 10px;
+    text-align: left;
+}
+.card-title a{
+    color: #000;
+    text-decoration: none;
+}
+.card-title a:hover{
+    text-decoration: underline;
+}
+
+img.card-img-top {
+    width: 100%;
+    height:220px;
+}
